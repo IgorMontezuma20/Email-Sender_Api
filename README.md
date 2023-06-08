@@ -7,10 +7,10 @@ A API foi desenvolvida com o objetivo de fornecer um serviço web que segue a ar
 ## Tecnologias Utilizadas
 Aqui estão as principais tecnologias utilizadas no desenvolvimento da API:
 
-https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
+[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://docs.oracle.com/javase/8/docs/technotes/tools/windows/javadoc.html)
 Java: A linguagem de programação utilizada para desenvolver a API.
 
-https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white
+[![SpringBoot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 Spring Boot: Um framework Java que simplifica o desenvolvimento de aplicativos web.
 
 REST: Um estilo arquitetural para construir serviços web escaláveis e flexíveis.
@@ -41,6 +41,6 @@ A estrutura do projeto é organizada da seguinte forma:
             - application.properties    # Configurações da aplicação
     - test/                             # Testes automatizados
 
-### Considerações Finais
+## Considerações Finais
 Esta API REST desenvolvida em Java utilizando o Spring Boot Framework é baseada na arquitetura de micro-serviços e utiliza a mensageria para melhorar a comunicação entre os serviços. Ela fornece uma série de funcionalidades.
 
