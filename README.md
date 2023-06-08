@@ -1,12 +1,13 @@
-### API REST com Microserviços e Mensageria
+# API REST com Microserviços e Mensageria
 Este é um arquivo README que explica uma API REST desenvolvida em Java, utilizando o framework Spring Boot. A API faz uso do conceito de micro-serviços e mensageria.
 
-### Visão Geral
+## Visão Geral
 A API foi desenvolvida com o objetivo de fornecer um serviço web que segue a arquitetura de micro-serviços. Ela permite a comunicação com diferentes componentes do sistema por meio de chamadas HTTP e utiliza a mensageria para o intercâmbio assíncrono de mensagens entre os serviços.
 
-### Tecnologias Utilizadas
+## Tecnologias Utilizadas
 Aqui estão as principais tecnologias utilizadas no desenvolvimento da API:
 
+[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://docs.oracle.com/javase/8/docs/technotes/tools/windows/javadoc.html)
 Java: A linguagem de programação utilizada para desenvolver a API.
 Spring Boot: Um framework Java que simplifica o desenvolvimento de aplicativos web.
 Spring Framework: Fornece uma base sólida para o desenvolvimento de aplicativos Java.
@@ -14,7 +15,7 @@ REST: Um estilo arquitetural para construir serviços web escaláveis e flexíve
 Micro-serviços: Uma abordagem arquitetural para desenvolver aplicativos como um conjunto de serviços independentes e interconectados.
 Mensageria: Uma técnica de comunicação assíncrona entre serviços utilizando mensagens.
 
-### Funcionalidades Principais
+## Funcionalidades Principais
 A API possui as seguintes funcionalidades principais:
 
 Endpoints REST: A API expõe uma série de endpoints RESTful para realizar operações como criação, leitura, atualização e exclusão de recursos.
