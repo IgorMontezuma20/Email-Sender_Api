@@ -8,9 +8,11 @@ A API foi desenvolvida com o objetivo de fornecer um serviço web que segue a ar
 Aqui estão as principais tecnologias utilizadas no desenvolvimento da API:
 
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://docs.oracle.com/javase/8/docs/technotes/tools/windows/javadoc.html)
+
 Java: A linguagem de programação utilizada para desenvolver a API.
 
 [![SpringBoot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
 Spring Boot: Um framework Java que simplifica o desenvolvimento de aplicativos web.
 
 REST: Um estilo arquitetural para construir serviços web escaláveis e flexíveis.
