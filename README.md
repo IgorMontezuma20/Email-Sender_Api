@@ -1,4 +1,4 @@
-##API REST com Microserviços e Mensageria##
+API REST com Microserviços e Mensageria
 Este é um arquivo README que explica uma API REST desenvolvida em Java, utilizando o framework Spring Boot. A API faz uso do conceito de micro-serviços e mensageria.
 
 Visão Geral
